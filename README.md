@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="c2" src="https://github.com/user-attachments/assets/18decaea-1741-4d59-9177-0ab53b849c6c" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
