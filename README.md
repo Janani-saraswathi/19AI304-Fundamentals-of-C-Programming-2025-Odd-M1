@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
+<img width="1920" height="1080" alt="c2" src="https://github.com/user-attachments/assets/18decaea-1741-4d59-9177-0ab53b849c6c" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
@@ -64,7 +64,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](../c1.png)
+<img width="1920" height="1018" alt="c1" src="https://github.com/user-attachments/assets/d9451cee-6785-45ce-b769-f858e0a5950f" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -73,7 +74,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
-# Date : 
+# Date : 24.12.25
 # Aim:
   To build a C program that demonstrates the use of macro constants and constant variables.
 # Algorithm:
@@ -112,8 +113,11 @@ int main() {
 }
 ```
 # Output:
-![alt text](../c2.png)
+<img width="1920" height="1080" alt="c2" src="https://github.com/user-attachments/assets/45cb171e-6a5b-4480-9ba8-94e5d53961af" />
+
+
 # Result: 
+
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
@@ -121,7 +125,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
-# Date : 
+# Date : 24.12.25
 # Aim:
   To build a C program that declares variables of various data types—integer, float, double, and character—initializes them, and prints their values on the screen.
 # Algorithm:
@@ -154,14 +158,15 @@ int main() {
 }
 ```
 # Output:
-![alt text](../c3.png)
+<img width="1920" height="1080" alt="c3" src="https://github.com/user-attachments/assets/c750f4f7-9c30-4848-81fe-0cf1091880a9" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
 # Ex.No:4
   Build a C program to perform arithmetic and bitwise operations on two integers entered by the user. The program should display: Arithmetic operations: addition, subtraction, multiplication, division, and remainder. Bitwise operations: AND, OR, XOR, left shift, right shift, and NOT.
-# Date : 
+# Date : 24.12.25
 # Aim:
   To build a C program that takes two integers as input and demonstrates the arithmetic and bitwise operations, displaying the results of each operation.
 # Algorithm:
@@ -229,7 +234,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](../c4.png)
+<img width="1920" height="1080" alt="c4" src="https://github.com/user-attachments/assets/39d46a4b-d4a7-47ba-a7b8-9ecfe5fca8b8" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -238,7 +244,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:5
   Develop a C program to check whether a given character is a vowel, consonant, digit, or special symbol using the ternary operator.
-# Date : 
+# Date : 24.12.25
 # Aim:
   To develop and implement a C program that classifies a character as a vowel, consonant, digit, or special symbol using the ternary operator.
 # Algorithm:
@@ -296,7 +302,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](../c5.png)
+<img width="1920" height="1080" alt="c5" src="https://github.com/user-attachments/assets/0457f7c0-3cfd-4109-9923-6c208ca34305" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
